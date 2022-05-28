@@ -7,6 +7,8 @@ public class TestEcms {
 
 		System.out.println("Hello Java World!!!");
 		System.out.println("this is my second commit");
+		
+		System.out.println("3 commit");
 	}
 
 }
