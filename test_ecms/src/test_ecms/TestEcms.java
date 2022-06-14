@@ -75,6 +75,8 @@ public class TestEcms {
 		
 		// ()   ->   {body};
 		
+		System.out.println("This is work space1");
+		
 	}
 
 	
